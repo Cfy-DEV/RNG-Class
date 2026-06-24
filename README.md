@@ -1,4 +1,4 @@
-# Chunk Class
+# RNG Class
 A roblox lighweight module that lets you store "Items" with certain percentages in them to later on roll, just like a gacha of some sort.
 
 ## Getting Started
